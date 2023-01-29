@@ -1,5 +1,5 @@
 {
-  "airport":"[
+  "airport":[
   {
  name:"Kraków" 
  code:"2222" 
@@ -8,5 +8,5 @@
  name:"Warszawa"; 
  code:"1111"; 
  }
-]"
+]
 }
